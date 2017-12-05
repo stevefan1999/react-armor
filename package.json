@@ -17,7 +17,6 @@
     "url": "https://github.com/elierotenberg/react-armor/issues"
   },
   "homepage": "https://github.com/elierotenberg/react-armor#readme",
-  "private": true,
   "devDependencies": {
     "babel-eslint": "^5.0.0-beta6",
     "babel-plugin-react-display-name": "^2.0.0",

@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elierotenberg/react-armor.git"
+    "url": "git+https://github.com/stevefan1999/react-armor.git"
   },
   "author": "Elie Rotenberg <elie@rotenberg.io>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/elierotenberg/react-armor/issues"
+    "url": "https://github.com/stevefan1999/react-armor/issues"
   },
-  "homepage": "https://github.com/elierotenberg/react-armor#readme",
+  "homepage": "https://github.com/stevefan1999/react-armor#readme",
   "devDependencies": {
     "babel-eslint": "^5.0.0-beta6",
     "babel-plugin-react-display-name": "^2.0.0",

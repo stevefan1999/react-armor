@@ -1,3 +1,7 @@
+WARNING
+=======
+This repo is not actively maintained since this is not mine, I'm only responsible for making react-armor able to publish. 
+
 react-armor
 ===========
 

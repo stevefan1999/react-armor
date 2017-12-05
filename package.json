@@ -1,6 +1,6 @@
 {
   "name": "react-armor",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Protect your DOM from third-party tampering!",
   "main": "dist/node/prod/lib/index.js",
   "browser": "dist/browser/lib/app/index.js",
